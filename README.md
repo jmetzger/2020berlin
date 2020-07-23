@@ -1,4 +1,9 @@
 # 2020berlin
 
-# Installer for colored shell 
+## Installer for colored shell 
 https://gist.github.com/danielalvarenga/ca6fa592483a6c4a198abcdf1848a6a3
+
+## Meld for mergetool
+```
+git config --global mergetool.meld.path '/c/Program Files (x86)/Meld/Meld.exe'
+```
